@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafał Musiatowicz</h1>
-<h3 align="center">I am in my second year of Applied Computer Science at the Warsaw University of Technology. <br>
-  I am interested in machine learning and software development.</h3>
+<h3 align="center">I am currently in my second year of Applied Computer Science at the Warsaw University of Technology. My interests lie in machine learning and software development.</h3>
 
 - 📫 How to reach me **rafalmusiatowicz2@gmail.com**
 
